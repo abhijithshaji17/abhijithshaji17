@@ -28,6 +28,11 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
   </br>
 </div>
 
+## Overall Stats📈:
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhijithshaji17&theme=onedark-duo)](https://git.io/streak-stats)
+</div>
+
 <div align="center">
 
 ```diff
