@@ -13,8 +13,16 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 
 ## Tech Stack🤖:
 <div>
-  <img src="icons/python.png" alt="Python" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/html.png" alt="html" width="40" height="40" style="vertical-align:middle;" />
+  <img src="icons/css.png" alt="css" width="40" height="40" style="vertical-align:middle;" />
   <img src="icons/js.png" alt="JS" width="40" height="40" style="vertical-align:middle;" />
+  <img src="icons/python.png" alt="Python" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/C.png" alt="C" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/C++.png" alt="C++" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/dart.png" alt="dart" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/flutter.png" alt="flutter" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/canva.png" alt="canva" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  
 </div>
 
 <div align="center">
