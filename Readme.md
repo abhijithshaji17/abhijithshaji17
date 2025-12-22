@@ -30,11 +30,11 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 
 ## Overall Stats📈:
 
-<div align="center">
+<p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abhijithshaji17&theme=highcontrast)](https://git.io/streak-stats)
 
-</div>
+</p>
 
 <div align="center">
 
