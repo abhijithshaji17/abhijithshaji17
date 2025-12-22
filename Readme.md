@@ -13,8 +13,8 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 
 ## Tech Stack🤖:
 <div>
-  <img src="icons/python.png" alt="Python" width="35" height="35" style="margin-right:6px; vertical-align:middle;" />
-  <img src="icons/js.png" alt="JS" width="35" height="35" style="vertical-align:middle;" />
+  <img src="icons/python.png" alt="Python" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/js.png" alt="JS" width="40" height="40" style="vertical-align:middle;" />
 </div>
 
 <div align="center">
