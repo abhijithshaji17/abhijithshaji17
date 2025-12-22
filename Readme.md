@@ -8,10 +8,10 @@
 
 # Hey there, Abhijith here! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="wave" width="25" height="25" /> 
 
-## About Me👤: 
+## About Me👤 
 I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year majors in Computer Science specialised with AI & Data Science. With a keen interest and undying urge to learn, grow and a passion to connect... I'm always up to something or the other! Ping me and watch me sprouting, bit by commit 🤩.  
 
-## Tech Stack🤖:
+## Tech Stack🤖
 <div>
   <img src="icons/html.png" alt="html" width="40" height="40" style="vertical-align:middle;" />
   <img src="icons/css.png" alt="css" width="40" height="40" style="vertical-align:middle;" />
@@ -28,7 +28,7 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
   </br>
 </div>
 
-## Overall Stats📈:
+## Overall Stats📈
 
 <div align="center">
 
@@ -36,20 +36,17 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 
 </div>
 
-
 <div align="center">
 
 ![abhijithshaji17's Streak](https://camo.githubusercontent.com/38c2f678476d49b3a4710387d7dac7c4966864a61bd73089d353f8ddb568f670/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616268696a6974687368616a693137267468656d653d6461726b26686964655f626f726465723d74727565)
 
 </div>
 
-
 <div align="center">
 
 ![abhijithshaji17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshaji17&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
-
 
 <div align="center">
 
@@ -75,6 +72,16 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
   
+</div>
+
+## Let's Connect🤝
+<div>
+
+[![Email](https://img.shields.io/badge/Email-abhijithshaji700@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithshaji700@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-shaji-)
+
+Drop me a message. Eager to connect with you!
+
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijithshaji17&color=blueviolet)
