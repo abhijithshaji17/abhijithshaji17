@@ -32,7 +32,19 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-4j4ig03nf-abhijithshaji17s-projects.vercel.app?user=abhijithshaji17&theme=onedark-duo)](https://git.io/streak-stats)
+![abhijithshaji17's Stats](https://github-readme-stats.vercel.app/api?username=abhijithshaji17&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+
+<div align="center">
+
+![abhijithshaji17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijithshaji17&theme=dark&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![abhijithshaji17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithshaji17&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
