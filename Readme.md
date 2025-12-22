@@ -21,8 +21,11 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
   <img src="icons/C++.png" alt="C++" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
   <img src="icons/dart.png" alt="dart" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
   <img src="icons/flutter.png" alt="flutter" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <br>
   <img src="icons/canva.png" alt="canva" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
-  
+  <img src="icons/figma.png" alt="figma" width="40" height="40" style="margin-right:6px; 
+  vertical-align:middle;" />
+  </br>
 </div>
 
 <div align="center">
