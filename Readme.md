@@ -39,7 +39,7 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 
 <div align="center">
 
-![abhijithshaji17's Streak](https://github-readme-streak-stats.vercel.app/api?user=abhijithshaji17&theme=dark&hide_border=true)
+![abhijithshaji17's Streak](https://camo.githubusercontent.com/38c2f678476d49b3a4710387d7dac7c4966864a61bd73089d353f8ddb568f670/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616268696a6974687368616a693137267468656d653d6461726b26686964655f626f726465723d74727565)
 
 </div>
 
