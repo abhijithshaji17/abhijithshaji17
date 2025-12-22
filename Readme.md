@@ -8,6 +8,9 @@
 
 # Hey there, Abhijith here! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="wave" width="25" height="25" /> 
 
+## About Me👤: 
+I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year majors in Computer Science specialised with AI & Data Science. With a keen interest and undying urge to learn, grow and a passion to connect... I'm always up to something other! Pinging with like-minded techies rn 🤩!
+
 
 <div align="center">
 
