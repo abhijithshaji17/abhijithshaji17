@@ -12,7 +12,10 @@
 I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year majors in Computer Science specialised with AI & Data Science. With a keen interest and undying urge to learn, grow and a passion to connect... I'm always up to something or the other! Ping me and watch me sprouting, bit by commit 🤩.  
 
 ## Tech Stack🤖:
-![Python](icons/python.png) ![JS](icons/js.png) 
+<div>
+  <img src="icons/python.png" alt="Python" width="20" height="20" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/js.png" alt="JS" width="20" height="20" style="vertical-align:middle;" />
+</div>
 
 <div align="center">
 
