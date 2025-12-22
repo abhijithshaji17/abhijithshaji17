@@ -81,7 +81,9 @@ I'm Abhijith Shaji, a first year student at DCS CUSAT - Kochi pursuing five year
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-shaji-)
 
 Drop me a message. Eager to connect with you.
-Until then eureka dear developers😭!
+<br>
+Until then eureka dear devs😭!
+</br>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijithshaji17&color=blueviolet)
