@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=53DB0F&width=435&lines=%24whoami...)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abhijithshaji17&label=&color=blueviolet&style=flat-square)]
+![Profile Views](https://komarev.com/ghpvc/?username=abhijithshaji17&color=blueviolet)
 
 
 ~~~text
