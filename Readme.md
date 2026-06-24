@@ -26,6 +26,12 @@ I'm Abhijith Shaji, a sophomore at DCS CUSAT - Kochi pursuing five year majors i
   <img src="icons/figma.png" alt="figma" width="40" height="40" style="margin-right:6px; 
   vertical-align:middle;" />
   </br>
+  <img src="icons/lightroom.png" alt="lightroom" width="40" height="40" style="margin-right:6px; 
+  vertical-align:middle;" />
+  </br>
+  <img src="icons/capcut.png" alt="capcut" width="40" height="40" style="margin-right:6px; 
+  vertical-align:middle;" />
+  </br>
 </div>
 
 ## Overall Stats📈
