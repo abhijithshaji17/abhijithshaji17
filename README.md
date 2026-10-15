@@ -21,7 +21,8 @@ I'm Abhijith Shaji, a sophomore at DCS CUSAT - Kochi pursuing five year majors i
   <img src="icons/C++.png" alt="C++" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
   <img src="icons/dart.png" alt="dart" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
   <img src="icons/flutter.png" alt="flutter" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
-  <img src="icons/typescript.png" alt="typecript" width="40" height="40" style="margin-right:6px; vertical-align:middle;border-radius:45%; " />
+  <br>
+  <img src="icons/typescript.png" alt="typecript" width="40" height="40" style="margin-right:6px; vertical-align:middle;border-radius:45%;" />
   <img src="icons/react.png" alt="react" width="40" height="40" style="margin-right:6px; vertical-align:middle;border-radius:45%;" />
   <img src="icons/tailwind.png" alt="tailwind" width="40" height="40" style="margin-right:6px; vertical-align:middle;border-radius:45%;" />
   <br>
