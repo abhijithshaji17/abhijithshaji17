@@ -21,12 +21,19 @@ I'm Abhijith Shaji, a sophomore at DCS CUSAT - Kochi pursuing five year majors i
   <img src="icons/C++.png" alt="C++" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
   <img src="icons/dart.png" alt="dart" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
   <img src="icons/flutter.png" alt="flutter" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
+  <img src="icons/typescript.png" alt="typecript" width="40" height="40" style="margin-right:6px; vertical-align:middle;border-radius:45%; " />
+  <img src="icons/react.png" alt="react" width="40" height="40" style="margin-right:6px; vertical-align:middle;border-radius:45%;" />
+  <img src="icons/tailwind.png" alt="tailwind" width="40" height="40" style="margin-right:6px; vertical-align:middle;border-radius:45%;" />
+  <br>
+  <img src="icons/vercel.png" alt="vercel" width="40" height="40" style="margin-right: 6px; border-radius: 20px; vertical-align: middle;" />
+  <img src="icons/firebase.png" alt="firebase" width="40" height="40" style="margin-right: 6px; border-radius: 20px; vertical-align: middle;" />
   <br>
   <img src="icons/canva.png" alt="canva" width="40" height="40" style="margin-right:6px; vertical-align:middle;" />
   <img src="icons/figma.png" alt="figma" width="40" height="40" style="margin-right:6px; 
   vertical-align:middle;" />
   <img src="icons/lightroom.png" alt="lightroom" width="40" height="40" style="margin-right:6px; 
   vertical-align:middle;" />
+  <img src="icons/snapseed.png" alt="snapseed" width="40" height="40" style="margin-right:6px; vertical-align:middle; border-radius: 45%;" />
   <img src="icons/capcut.png" alt="capcut" width="40" height="40" style="margin-right: 6px; border-radius: 20px; vertical-align: middle;" />
   <img src="icons/edits.png" alt="edits" width="40" height="40" style="margin-right: 6px; border-radius: 20px; vertical-align: middle;" />
 </div>
